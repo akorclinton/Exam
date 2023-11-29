@@ -498,4 +498,9 @@ ion-icon:hover {
     place-self: start center;
     gap: 2rem;
   }
+  .bottom_input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
 }
